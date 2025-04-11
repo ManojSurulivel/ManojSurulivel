@@ -19,8 +19,6 @@
 <h1 align="center">Hi 👋, I'm Manoj Surulivel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Gemini AI Clone UI (React + Tailwind)**
-
 - 🌱 I’m currently learning **Next.js, React Authentication Flow, and API integration**
 
 - 👯 I’m looking to collaborate on **Open-source React.js UI components / Frontend Projects**
@@ -31,7 +29,7 @@
 
 - 💬 Ask me about **React.js, Redux, Tailwind CSS, JavaScript (ES6), Material UI**
 
-- 📫 How to reach me **📧 manojsurulivel@gmail.com 📱 (+91) 8838159095**
+- 📫 How to reach me **📧 manojsurulivel@gmail.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
