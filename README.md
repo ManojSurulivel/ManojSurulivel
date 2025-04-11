@@ -25,8 +25,6 @@
 
 - 🤝 I’m looking for help with **Learning Next.js and advanced performance optimization in React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/manojSurulivel](https://github.com/manojSurulivel)
-
 - 💬 Ask me about **React.js, Redux, Tailwind CSS, JavaScript (ES6), Material UI**
 
 - 📫 How to reach me **📧 manojsurulivel@gmail.com **
