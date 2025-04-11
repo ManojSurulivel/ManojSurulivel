@@ -30,13 +30,6 @@
 - 📫 How to reach me **📧 manojsurulivel@gmail.com **
   
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojsurulivel&show_icons=true&locale=en&layout=compact" alt="manojsurulivel" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojsurulivel&show_icons=true&locale=en" alt="manojsurulivel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojsurulivel&" alt="manojsurulivel" /></p>
-
-
 ###
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -65,9 +58,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 
 </div></p>
-
 ###
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojsurulivel&show_icons=true&locale=en&layout=compact" alt="manojsurulivel" /></p>
 
 ###
 
