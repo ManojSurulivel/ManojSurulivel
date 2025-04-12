@@ -63,6 +63,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojsurulivel&show_icons=true&locale=en&layout=compact" alt="manojsurulivel" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojsurulivel&show_icons=true&locale=en" alt="manojsurulivel" /></p>
+
+
 ###
 
 <h3 align="left">Connect with me:</h3>
@@ -76,11 +79,5 @@
 <a href="https://www.leetcode.com/manojsurulivel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manojsurulivel" height="30" width="40" /></a>
 </p>
 
-
-###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojsurulivel&show_icons=true&locale=en&layout=compact" alt="manojsurulivel" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojsurulivel&show_icons=true&locale=en" alt="manojsurulivel" /></p>
 
 ###
