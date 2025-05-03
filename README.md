@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **React.js, Redux, Tailwind CSS, JavaScript (ES6), Material UI**
 
-- 📫 How to reach 📧 <a href="manojsurulivel@gmail.com">mail me</a> 
+- 📫 How to reach 📧 <a href="manojsurulivel@gmail.com">Mail Me</a> 
   
 
 ###
