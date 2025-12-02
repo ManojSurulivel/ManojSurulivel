@@ -54,7 +54,11 @@
   <img width="12" />
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+
+<a href="https://jquery.org/" target="_blank" rel="noreferrer">
+<img alt="jquery" width="40" height="40" alt="jquery-logo" src="https://github.com/user-attachments/assets/1d7cca75-53cb-4135-b68d-3faba3e494bd" /> </a>
 
 </div></p>
 
