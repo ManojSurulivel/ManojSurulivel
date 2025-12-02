@@ -62,7 +62,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojsurulivel&show_icons=true&locale=en&layout=compact" alt="manojsurulivel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojsurulivel&show_icons=true&locale=en" alt="manojsurulivel" /></p>
 
 
 ###
